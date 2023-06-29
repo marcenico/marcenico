@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile. I'm Marcelo, a frontend developer passionate about programming and technology. I constantly seek creative and innovative solutions.
 
+## Profile Visits
+
+![Profile Visits](https://komarev.com/ghpvc/?username=marcenico)
+
 ## Skills
 
 [![HTML](https://img.shields.io/badge/HTML-Expert-orange)]()
