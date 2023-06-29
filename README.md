@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm Marcelo, a frontend developer passionate about
 
 ## Profile Visits
 
-![Profile Visits](https://komarev.com/ghpvc/?username=marcenico&color=blueviolet&label=Profile+Visits&logo=github&logoColor=white&labelColor=blueviolet&cacheSeconds=86400&size=big)
+<img src="https://komarev.com/ghpvc/?username=marcenico&color=blueviolet" alt="Profile Visits" style="height: 30px;">
 
 ## Skills
 
