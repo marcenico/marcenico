@@ -30,4 +30,4 @@ I have a featured project repository that you might find interesting:
 - LinkedIn: [marcenico](https://www.linkedin.com/in/marcenico/)
 - Twitter: [_marcenico](https://twitter.com/_marcenico)
 
-Thanks for visiting my profile. Have a great day!
+Thanks for visiting my profile. Have a great day! 💖
