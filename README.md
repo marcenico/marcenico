@@ -18,6 +18,12 @@ Welcome to my GitHub profile. I'm Marcelo, a frontend developer passionate about
 
 Visit my portfolio website at [marcenico.com](https://www.marcenico.com) to explore my projects and learn more about my work.
 
+## Featured Project Repository
+
+I have a featured project repository that you might find interesting:
+
+- [Latinad World Cup](https://github.com/marcenico/latinad-mundial): This project was designed to be displayed on various public screens, ensuring that viewers in public places could easily access up-to-date and relevant details about FIFA World Cup.
+
 ## Contact
 
 - Email: [contacto@marcenico.com](mailto:contacto@marcenico.com)
